@@ -1,0 +1,16 @@
+# ninja log v6
+14	1544	7686587558875955	KoridorsGame_autogen/timestamp	61361b521d08d23d
+14	1544	7686587558875955	KoridorsGame_autogen/mocs_compilation.cpp	61361b521d08d23d
+14	1544	7686587558875955	C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/KoridorsGame_autogen/timestamp	61361b521d08d23d
+14	1544	7686587558875955	C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/KoridorsGame_autogen/mocs_compilation.cpp	61361b521d08d23d
+1550	3264	7686587577170048	KoridorsGame_autogen/EWIEGA46WW/qrc_Resources.cpp	2d26440a530f719d
+1550	3264	7686587577170048	C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/KoridorsGame_autogen/EWIEGA46WW/qrc_Resources.cpp	2d26440a530f719d
+3306	6871	7686587577745323	CMakeFiles/KoridorsGame.dir/themewindow.cpp.obj	3f29815162f437f6
+3270	7244	7686587577382468	CMakeFiles/KoridorsGame.dir/main.cpp.obj	924f21a8c67396d5
+3293	7378	7686587577607357	CMakeFiles/KoridorsGame.dir/helpwindow.cpp.obj	259a75ff770a15ed
+3275	7508	7686587577432491	CMakeFiles/KoridorsGame.dir/mainwindow.cpp.obj	cb7ea3df4aae84f6
+3299	7529	7686587577682476	CMakeFiles/KoridorsGame.dir/startwindow.cpp.obj	2219b9e5d9eeb7f4
+3264	7663	7686587577327960	CMakeFiles/KoridorsGame.dir/KoridorsGame_autogen/mocs_compilation.cpp.obj	d08e32fbe1301262
+3287	8058	7686587577548507	CMakeFiles/KoridorsGame.dir/game.cpp.obj	6ec91c9a4af338b3
+3281	8100	7686587577488538	CMakeFiles/KoridorsGame.dir/editorwindow.cpp.obj	f406f4ea0303a909
+3312	16576	7686587577810512	CMakeFiles/KoridorsGame.dir/KoridorsGame_autogen/EWIEGA46WW/qrc_Resources.cpp.obj	ba930abf55e0ed0c

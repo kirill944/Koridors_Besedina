@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-13258dce7e61131ab16f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KoridorsGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KoridorsGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KoridorsGame-Debug-8533f49c505ccaa6849b.json",
+					"name" : "KoridorsGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KoridorsGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KoridorsGame_autogen-Debug-e09939fd6fc36f9e38be.json",
+					"name" : "KoridorsGame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KoridorsGame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KoridorsGame_autogen_timestamp_deps-Debug-ed5bec1cc648c3066514.json",
+					"name" : "KoridorsGame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug",
+		"source" : "C:/Users/ksolo/Downloads/KoridorsGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

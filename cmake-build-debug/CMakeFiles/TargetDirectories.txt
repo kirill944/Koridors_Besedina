@@ -1,0 +1,9 @@
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/KoridorsGame.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/KoridorsGame_autogen_timestamp_deps.dir
+C:/Users/ksolo/Downloads/KoridorsGame/cmake-build-debug/CMakeFiles/KoridorsGame_autogen.dir

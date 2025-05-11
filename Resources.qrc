@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/forest_bg/game_bg.jpg</file>
+        <file>resources/forest_bg/victory_bg.jpg</file>
+        <file>resources/forest_bg/start_bg.jpg</file>
+        <file>resources/water_bg/victory_bg.jpg</file>
+        <file>resources/water_bg/start_bg.jpg</file>
+        <file>resources/water_bg/help_bg.jpg</file>
+        <file>resources/water_bg/game_bg.jpg</file>
+        <file>resources/japanese_bg/victory_bg.jpg</file>
+        <file>resources/japanese_bg/help_bg.jpg</file>
+        <file>resources/japanese_bg/game_bg.jpg</file>
+        <file>resources/japanese_bg/start_bg.jpg</file>
+        <file>resources/water_bg/theme_bg.jpg</file>
+        <file>resources/water_bg/fish_icon.png</file>
+        <file>resources/forest_bg/frog_icon.png</file>
+        <file>resources/forest_bg/theme_bg.jpg</file>
+        <file>resources/japanese_bg/theme_bg.jpg</file>
+        <file>resources/forest_bg/help_bg.jpg</file>
+        <file>resources/japanese_bg/cat_icon.png</file>
+        <file>resources/japanese_bg/loose_bg.jpg</file>
+        <file>resources/forest_bg/loose_bg.jpg</file>
+        <file>resources/water_bg/loose_bg.jpg</file>
+    </qresource>
+</RCC>
